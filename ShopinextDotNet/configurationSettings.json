@@ -1,0 +1,10 @@
+﻿{
+  "Endpoints": {
+    "Production": "https://api.shopinext.com",
+    "Test": "https://api.dev.shopinext.com",
+    "Credentials": {
+      "ClientId": "YOUR_CLIENT_ID",
+      "ClientSecret": "YOUR_CLIENT_SECRET"
+    }
+  }
+}

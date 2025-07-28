@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopinextDotNet", "ShopinextDotNet\ShopinextDotNet.csproj", "{59C05668-5973-4CB5-BB96-3F5062629DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopinextDotNet.WebAPI", "ShopinextDotNet.WebAPI\ShopinextDotNet.WebAPI.csproj", "{B4A22AE6-40A5-4DB9-B1FD-FCB1D9081EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C05668-5973-4CB5-BB96-3F5062629DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C05668-5973-4CB5-BB96-3F5062629DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C05668-5973-4CB5-BB96-3F5062629DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C05668-5973-4CB5-BB96-3F5062629DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A22AE6-40A5-4DB9-B1FD-FCB1D9081EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A22AE6-40A5-4DB9-B1FD-FCB1D9081EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A22AE6-40A5-4DB9-B1FD-FCB1D9081EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A22AE6-40A5-4DB9-B1FD-FCB1D9081EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4574630-0CF7-4408-BADE-E076D1785520}
+	EndGlobalSection
+EndGlobal
